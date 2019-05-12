@@ -1,5 +1,6 @@
 WEBKIT ONLY (for now)
 
+Contributors: AmeliaBR, p01
 
 miniSpeechRecognition
 ===
